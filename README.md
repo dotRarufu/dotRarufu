@@ -1,4 +1,15 @@
-### Hi there 👋
+&nbsp;<div align="center">
+### 🚧 WIP 🚧
+</div>
+
+&nbsp;<div align="center">
+  [![Spotify](https://github-spotify-widget-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31y5kedrcvl2y7yv5e7pcgdjbhma)
+</div>
+
+
+
+
+
 
 <!--
 **dotRarufu/dotRarufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y5kedrcvl2y7yv5e7pcgdjbhma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31y5kedrcvl2y7yv5e7pcgdjbhma&redirect=true)
