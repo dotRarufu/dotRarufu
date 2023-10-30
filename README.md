@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?text=dotRarufu!&fontAlign=70&desc=textheretexthere&descAlign=20)
 &nbsp;<div align="center">
 ### 🚧 WIP 🚧
 </div>
