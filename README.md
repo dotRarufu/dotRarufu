@@ -1,10 +1,10 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=78&desc=dotrarufu&descAlign=92.5&height=195&theme=tokyonight&animation=fadeIn&fontAlignY=39&descAlignY=49&fontSize=30) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=50&height=185&theme=tokyonight&animation=fadeIn&fontAlignY=39&fontSize=15) 
-&nbsp;<div align="center">
+&nbsp;<div align="left">
 ### 🚧 WIP 🚧
 </div>
 
-&nbsp;<div align="center">
+&nbsp;<div align="left">
   [![Spotify](https://github-spotify-widget-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31y5kedrcvl2y7yv5e7pcgdjbhma)
 </div>
 
