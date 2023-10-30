@@ -6,7 +6,7 @@
 🎵 Currently Listening/Last Listened to
 </div>
 
-<div align="left">
+;<div align="left">
   [![Spotify](https://github-spotify-widget-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31y5kedrcvl2y7yv5e7pcgdjbhma)
 </div>
 
