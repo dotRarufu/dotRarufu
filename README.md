@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu!&fontAlign=70&desc=textheretexthere&descAlign=70&height=400&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu!&fontAlign=80&desc=textheretexthere&descAlign=90&height=250&theme=onedark)
 &nbsp;<div align="center">
 ### 🚧 WIP 🚧
 </div>
