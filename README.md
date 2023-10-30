@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=70&desc=dotrarufu&descAlign=84.5&height=220&theme=tokyonight&animation=fadeIn&fontAlignY=35&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=70&desc=dotrarufu&descAlign=84.5&height=210&theme=tokyonight&animation=fadeIn&fontAlignY=35&descAlignY=45)
 &nbsp;<div align="center">
 ### 🚧 WIP 🚧
 </div>
