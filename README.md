@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=78&desc=dotrarufu&descAlign=92.5&height=195&theme=tokyonight&animation=fadeIn&fontAlignY=39&descAlignY=49&fontSize=30)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=78&desc=dotrarufu&descAlign=92.5&height=195&theme=tokyonight&animation=fadeIn&fontAlignY=39&descAlignY=49&fontSize=30) -->
+![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&desc=dotrarufu&height=185&theme=tokyonight&animation=fadeIn&fontAlignY=39&fontSize=30) 
 &nbsp;<div align="center">
 ### 🚧 WIP 🚧
 </div>
