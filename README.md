@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=78&desc=dotrarufu&descAlign=92.5&height=195&theme=tokyonight&animation=fadeIn&fontAlignY=39&descAlignY=49&fontSize=30) -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=50&height=185&theme=tokyonight&animation=fadeIn&fontAlignY=39&fontSize=15) 
+![header](https://capsule-render.vercel.app/api?type=waving&desc=dotRarufu&descAlign=50&height=185&theme=tokyonight&animation=fadeIn&descAlignY=39&descSize=15) 
 &nbsp;<div align="left">
 ### 🚧 WIP 🚧
 </div>
