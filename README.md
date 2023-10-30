@@ -1,15 +1,11 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&text=dotRarufu&fontAlign=78&desc=dotrarufu&descAlign=92.5&height=195&theme=tokyonight&animation=fadeIn&fontAlignY=39&descAlignY=49&fontSize=30) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&desc=dotRarufu&descAlign=50&height=185&theme=tokyonight&animation=fadeIn&descAlignY=39&descSize=15) 
-&nbsp;<div align="left">
-### 🚧 WIP 🚧
+<div align="left">
+**🎵 Currently Listening/Last Listened to**
 </div>
-
-&nbsp;<div align="left">
+<div align="left">
   [![Spotify](https://github-spotify-widget-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31y5kedrcvl2y7yv5e7pcgdjbhma)
 </div>
-
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20mins-blue)
